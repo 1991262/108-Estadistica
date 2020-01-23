@@ -11,3 +11,5 @@ lista de actividades estadistica
    
    + :paperclip: clase 2: 23.01.2020
  
+   + primera tarea del curso
+   
