@@ -12,4 +12,4 @@ lista de actividades estadistica
    + :paperclip: clase 2: 23.01.2020
  
    + primera tarea del curso
-   
+   + la fecha de entrega sera el dia 28.01 a las 23 horas
