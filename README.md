@@ -9,6 +9,11 @@ lista de actividades estadistica
    + creamos nuestro proyecto en rstudio (*108-estadistica. Rproj*)
    + Actualizamos nuestro repositorio via version control (*Git*)
    
+   + :paperclip: clase 2: 23.01.2020
+   + primera tarea del curso
+   + la fecha de entrega sera el dia 28.01 a las 23 horas
+>>>>>>> 6d8b031ff9c5a667e75d252c4c7e95ad344161b4
+
 <<<<<<< HEAD
    + :paperclip: clase 2: 23.01.2020
  
@@ -19,8 +24,3 @@ lista de actividades estadistica
      + instalar paqueteria para R
      
      
-=======
-+ :paperclip: clase 2: 23.01.2020
-+ primera tarea del curso
-+ la fecha de entrega sera el dia 28.01 a las 23 horas
->>>>>>> 6d8b031ff9c5a667e75d252c4c7e95ad344161b4
