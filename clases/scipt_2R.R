@@ -49,4 +49,3 @@ sum(BD.ebanos$diametro == mean(BD.ebanos$diametro))
 # subconjunto de datos subset
 ebanos.30 <- subset(BD.ebanos,
                     BD.ebanos$diametro > 30)
-
