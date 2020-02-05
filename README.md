@@ -33,6 +33,6 @@ lista de actividades estadistica
 
  +: paperclip: clase 4:30.01.2020 ("scipt 2")
   +importar base de datos de excel en formato *.csv*
-  + utilizar 
+  + utilizar las diametro y altura en ebanos
 =======
 >>>>>>> a9339ff54890653207c9c5ad50095d1798e86d9b
