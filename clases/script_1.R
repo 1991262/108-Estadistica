@@ -16,9 +16,9 @@ a+5
 
 a+a^2
 
-log(peso)
+log(a)
 
-# ingresar conhunto de datos
+# ingresar conjunto de datos
 peso <-c(70,62,52,90,38,52,50,56,70,65,76,70,72)
 peso
 #numero de observaciones (length)
@@ -42,5 +42,6 @@ range(peso)
 # graficas ---------------------------------------------------------------
 
 boxplot(peso)
-boxplot(peso, col = "green",ylab="Peso (Kg)", main = "Peso alumnos tomado el 29.01.2020")
+boxplot(peso, col = "green",ylab="peso (Kg)", main = "peso alumnos tomado el 29.01.2020")
+
 
