@@ -5,7 +5,7 @@
 
 # importar datos ----------------------------------------------------------
 
-BD.ebanos <- read.csv("clases/clases/ebanos.csv", header = TRUE)
+BD.ebanos <- read.csv("clases/ebanos.csv", header = TRUE)
 head(BD.ebanos)
 summary(BD.ebanos)
 
@@ -38,7 +38,7 @@ sum(BD.ebanos$diametro < 25.97)
 
 # ¿cuantos individuos tiene un diam mayor que la media?
 
-sum(BD.ebanmos$diametro > mean(BD.ebanos$diametro))
+sum(BD.ebanos$diametro > mean(BD.ebanos$diametro))
 
 sum(BD.ebanos$diametro > 30)
 
