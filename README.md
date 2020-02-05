@@ -12,9 +12,8 @@ lista de actividades estadistica
    + :paperclip: clase 2: 23.01.2020
    + primera tarea del curso
    + la fecha de entrega sera el dia 28.01 a las 23 horas
->>>>>>> 6d8b031ff9c5a667e75d252c4c7e95ad344161b4
 
-<<<<<<< HEAD
+
    + :paperclip: clase 2: 23.01.2020
  
    + primera tarea del curso
@@ -24,8 +23,6 @@ lista de actividades estadistica
      + instalar paqueteria para R
      
      
-<<<<<<< HEAD
-=======
 + :paperclip: clase 2: 23.01.2020
 + primera tarea del curso
 + la fecha de entrega sera el dia 28.01 a las 23 horas
@@ -33,6 +30,4 @@ lista de actividades estadistica
 
  +: paperclip: clase 4:30.01.2020 ("scipt 2")
   +importar base de datos de excel en formato *.csv*
-  + utilizar las diametro y altura en ebanos
-=======
->>>>>>> a9339ff54890653207c9c5ad50095d1798e86d9b
+  + utilizar las diametro y altura en eban
