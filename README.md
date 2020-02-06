@@ -16,6 +16,6 @@ lista de actividades estadistica
 + clase 3: 29.01.2020
    + instalar paqueteria para R
      
-+: paperclip: clase 4:30.01.2020 ("scipt 2")
++: paperclip: clase 4,   30.01.2020 ("scipt 2")
   +importar base de datos de excel en formato *.csv*
   + utilizar las diametro y altura en ebano
