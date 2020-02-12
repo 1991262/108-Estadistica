@@ -2,3 +2,6 @@
 
 + pruba de kolmogorov smirnov.
 + prueba de shapioto wilking
+
+a cada prueba se le establece un valor de alfa 0.05.
+la interpretacion se puede observar en la sig. imagen:
