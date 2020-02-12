@@ -31,3 +31,8 @@ lista de actividades estadistica
  +: paperclip: clase 4:30.01.2020 ("scipt 2")
   +importar base de datos de excel en formato *.csv*
   + utilizar las diametro y altura en eban
+
+
++ clase 5 dia 12/02/2020
+
+ + tipo de distribucion
