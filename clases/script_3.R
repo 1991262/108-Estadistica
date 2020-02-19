@@ -60,11 +60,6 @@ sum(ebanos$diametro <= 25.9)
 
 sum(ebanos$diametro >=10 & ebanos$diametro <=15.51)
 
-
-
-
-
-
 ks.test(cuadro1$Diametro, "pnorm",
         mean=mean(cuadro1$Diametro,
                   sd=sd(cuadro1$Diametro)))
