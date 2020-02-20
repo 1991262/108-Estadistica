@@ -34,3 +34,7 @@ lista de actividades estadistica
  + clase 7 19.02.2020 terminacion de tarea
  
  
+ + clase 8 20.02.2020 
+ + platica sobre la tarea y explicacion
+ 
+ 
