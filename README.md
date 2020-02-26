@@ -37,4 +37,7 @@ lista de actividades estadistica
  + clase 8 20.02.2020 
  + platica sobre la tarea y explicacion
  
+ + clase 9 26.02.2020
+ precentacion del examen
+ 
  
