@@ -18,21 +18,18 @@ lista de actividades estadistica
      
 +: paperclip: clase 4,   30.01.2020 ("scipt 2")
   +importar base de datos de excel en formato *.csv*
-<<<<<<< HEAD
   + utilizar las diametro y altura en eban
 
-
 + clase 5 dia 12/02/2020
-
  + tipo de distribucion
-=======
-  + utilizar las diametro y altura en ebano
+ + utilizar las diametro y altura en ebano
 >>>>>>> aba50f8f61db0885c7043e6ca2cc95b9474251cb
+
  + clase 6 dia 13.02.2020
  + tipo de distribucion de diametro y altura en graficas
  
- + clase 7 19.02.2020 terminacion de tarea
- 
+ + clase 7 19.02.2020 
+ + terminacion de tarea
  
  + clase 8 20.02.2020 
  + platica sobre la tarea y explicacion
