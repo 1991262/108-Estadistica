@@ -43,3 +43,6 @@ lista de actividades estadistica
    + principios de t
    + hipotesis nula y hipotesis alternativa
    
+ + clase 13 11.03.2020
+   + Datos del vivero
+   
