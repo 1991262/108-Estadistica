@@ -24,8 +24,6 @@ lista de actividades estadistica
  + tipo de distribucion
  + utilizar las diametro y altura en ebano
  + utilizar las diametro y altura en ebano
->>>>>>> 471e7092fb5ce92007fb09feb8fee34f1e401025
->>>>>>> aba50f8f61db0885c7043e6ca2cc95b9474251cb
 
  + clase 6 dia 13.02.2020
  + tipo de distribucion de diametro y altura en graficas
@@ -38,6 +36,8 @@ lista de actividades estadistica
  
  + clase 9 26.02.2020
  precentacion del examen
+ 
+ + clase 10 
  
  + clase 10  27.02.2020
    + principios de t
