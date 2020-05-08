@@ -42,8 +42,8 @@ lista de actividades estadistica
    + hipotesis nula y hipotesis alternativa
  
  + clase 12: pruebas de T- (04.03.2020)
-  + BD cedro rojo pruebas de t (una muestra)
-  + Relacion de hipotesis (nula y alternativa)
+   + BD cedro rojo pruebas de t (una muestra)
+   + Relacion de hipotesis (nula y alternativa)
  
  + clase 13: (11.03.2020)
    + Datos del vivero prueba de t de dos datos independientes
