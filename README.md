@@ -40,6 +40,9 @@ lista de actividades estadistica
  + clase 10:  (27.02.2020)
    + principios de t
    + hipotesis nula y hipotesis alternativa
+   
+ + clase 11: (03.03.2020)
+   + prueba de T en excel ejemplos
  
  + clase 12: pruebas de T- (04.03.2020)
    + BD cedro rojo pruebas de t (una muestra)
