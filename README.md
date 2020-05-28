@@ -74,3 +74,22 @@ lista de actividades estadistica
  + clase aula virtual 21: (07.05.2020)
    + link del video clase 21
    
+ + clase aula virtual 22: (13.05.2020)
+   + trabajo de prueba de t de muestras dependientes
+
+ + clase aula virtual 23: (14.05.2020)
+   + trabajo de prueba de t de muestras independientes
+
+ + clase aula virtual 24: (20.05.2020)
+   + examen en encuesta de prueba de t de muestras independientes
+
+ + clase aula virtual 25: (21.05.2020)
+   + examen en encuesta de prueba de t de muestras dependientes
+
+ + clase aula virtual 26: (27.05.2020)
+   + asignación en encuesta de prueba de t de una muestra
+
+ + clase aula virtual 27: (28.05.2020)
+   + asignación de encuesta de prueba de t de una muestra 
+
+
